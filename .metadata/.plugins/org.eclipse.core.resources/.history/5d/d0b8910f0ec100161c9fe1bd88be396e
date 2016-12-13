@@ -1,0 +1,10 @@
+package ex04_Polymorphism;
+
+public class Polytext {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

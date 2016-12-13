@@ -1,0 +1,15 @@
+package ex05_static;
+
+public class StaticTest {
+	int count = 0;
+	public StaticTest(){
+		count++;
+		System.out.println(count);
+	}
+	
+	public static void main(String[] args) {
+		System.out.println("hello world");
+
+	}
+
+}

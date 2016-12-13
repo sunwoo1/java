@@ -17,7 +17,7 @@ public class Inheritance {
 			}
 			
 			public void printxy(){
-				System.out.println("parent x ="+x+" y = "+y);
+				System.out.println("parent x = "+x+" y = "+y);
 			}
 		}
 		
