@@ -1,0 +1,5 @@
+package ex07_Interface;
+
+public interface MakeSoundable {
+
+}

@@ -14,7 +14,7 @@ public class StaticTest {
 	public static void main(String[] args) {
 		StaticTest s1 = new StaticTest();
 		StaticTest s2 = new StaticTest();
-		StaticTest s3 = new StaticTest();
+		
 		System.out.println(StaticTest.getCount());
 	}
 
