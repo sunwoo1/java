@@ -1,0 +1,15 @@
+
+public class TwoDimenShape extends Shape{
+	public float getArea() {
+		return 0;
+	}
+
+	@Override
+	public float getInfo() {
+		// TODO Auto-generated method stub
+		return getArea();
+	}
+
+	
+	
+}

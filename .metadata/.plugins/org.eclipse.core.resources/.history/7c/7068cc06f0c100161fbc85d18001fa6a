@@ -1,0 +1,7 @@
+
+public class Charater {
+	int hp;
+	
+	public static int attack();
+
+}

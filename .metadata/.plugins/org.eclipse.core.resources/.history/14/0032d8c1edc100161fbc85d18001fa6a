@@ -1,0 +1,13 @@
+
+public class TwoDimenShape extends Shape{
+	public float getArea() {
+		return 0;
+	}
+
+	@Override
+	public float getInfo() {
+		return getArea();
+	}
+	
+	
+}

@@ -1,0 +1,6 @@
+
+public abstract class TwoDimenShape extends ShapeTest{
+	public abstract float getArea();
+	
+	
+}

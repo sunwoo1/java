@@ -1,0 +1,15 @@
+
+public class BattleTest {
+	public static void main(String[] args){
+		Player p = new Player();
+		Monster m = new Monster();
+		int a = m.attack(10);
+		while(p.hp > 0 && m.hp > 0){
+			
+			System.out.println(a+" 피해를 입음");
+			System.out.println("남은 HP:"+p.hp);
+			
+		}
+			
+	}
+}
